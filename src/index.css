@@ -6,14 +6,17 @@
   --dga-color-bg-tertiary: #E6F7FF;
   --dga-color-bg-quartenary: #F5F5F5;
 
-  --dga-color-btn: #1890FF;
-
   --dga-color-font-primary: #000;
   --dga-color-font-secondary: #FFF;
   --dga-color-font-tertiary: #7E7E7E;
+  --dga-color-font-quartenary: #1890FF;
+  --dga-color-font-quinary: #737373;
+
+  --dga-color-btn: #1890FF;
 
   --dga-color-font-input: #BFBFBF;
-  --dga-color-border-input: #D9D9D9
+
+  --dga-color-border: #D9D9D9
 }
 
 * {
