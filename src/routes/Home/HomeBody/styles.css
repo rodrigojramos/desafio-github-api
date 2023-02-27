@@ -1,0 +1,28 @@
+.card-content {
+    background-color: var(--dga-color-bg-primary);
+    padding: 0 40px;
+}
+
+.title-card {
+    margin: 27px 0;
+}
+
+.title-card h2 {
+    font-size: 48px;
+    color: var(--dga-color-font-primary);
+}
+
+.title-card h3 {
+    font-size: 24px;
+    color: var(--dga-color-font-tertiary);
+}
+
+.button-card button{
+    width: 100px;
+    height: 40px;
+    background-color: var(--dga-color-btn);
+    border-radius: 4px;
+    color: var(--dga-color-font-secondary);
+    border: none;
+    cursor: pointer;
+}

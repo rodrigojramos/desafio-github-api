@@ -1,0 +1,44 @@
+.card-container {
+    background-color: var(--dga-color-bg-tertiary);
+    width: 100%;
+    max-width: 1250px;
+    height: 270px;
+    border-radius: 16px;
+    margin: 0 auto;
+    padding: 54px 30px;
+    margin-top: 54px;
+}
+
+.card-container h2 {
+    font-size: 38px;
+    font-weight: 500;
+    color: var(--dga-color-font-primary);
+    margin-bottom: 12px;
+}
+
+.card-container input {
+    width: 300px;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid var(--dga-color-border-input);
+    padding: 0 17px;
+    margin-bottom: 24px;
+}
+
+.card-container input:focus {
+    outline: none
+}
+
+.card-container input::placeholder {
+    color: var(--dga-color-font-input);
+}
+
+.card-container button{
+    width: 100px;
+    height: 40px;
+    background-color: var(--dga-color-btn);
+    border-radius: 4px;
+    color: var(--dga-color-font-secondary);
+    border: none;
+    cursor: pointer;
+}

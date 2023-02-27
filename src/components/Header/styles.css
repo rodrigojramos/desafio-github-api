@@ -1,0 +1,13 @@
+.header-content {
+    background-color: var(--dga-color-bg-secondary);
+    color: var(--dga-color-font-secondary);
+    padding: 0 40px;
+    height: 62px;
+    display: flex;
+    align-items: center;
+}
+
+.header-content h1 {
+    font-weight: 500;
+    font-size: 24px;
+}
