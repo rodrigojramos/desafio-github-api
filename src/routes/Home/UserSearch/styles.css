@@ -42,3 +42,16 @@
     border: none;
     cursor: pointer;
 }
+
+.error-message {
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+.error-message h1 {
+    font-weight: 500;
+    color: var(--dga-color-font-error);
+    font-size: 38px;
+}
